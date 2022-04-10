@@ -1,2 +1,2 @@
 # coursera_assignment
- assignmetns for coursera
+ assignments for coursera
